@@ -35,6 +35,16 @@ No repositório do GitHub, entre na pasta `assets` e envie os arquivos com **os 
 - `icone-frio-painel.png` — ícone Frio Painel
 - `300-no-7.mp3` — arquivo de áudio que você possui e pode usar
 
+### Como conferir se o GIF está realmente aparecendo
+
+O `fundo.gif` fica **atrás de todas as seções**, ocupando a tela inteira, no computador e no celular. Nesta versão ele foi reforçado, e o gradiente está mais transparente.
+
+- Dentro do GitHub, confira se o arquivo está em `assets/fundo.gif`, exatamente com esse nome em letras minúsculas.
+- Depois do deploy, abra `https://SEU-SITE.onrender.com/assets/fundo.gif` diretamente no navegador. Se mostrar **404**, o arquivo não foi enviado na pasta correta ou a publicação ainda não atualizou.
+- Caso ainda apareça a versão anterior, recarregue a página ignorando o cache, ou abra em aba anônima.
+- Para deixar o GIF mais ou menos forte, edite `--gif-opacity: .94;` em `style.css`, no bloco `:root`. Use um número de **0 a 1**; `1` é o máximo.
+- O GIF não vem incluído, pois você vai enviar sua própria imagem animada.
+
 > A música foi identificada pelo nome “300 no 7”, mas o áudio não está incluído. Não é possível distribuí-lo sem o arquivo e os direitos correspondentes.
 
 ## 3. Adicionar links
