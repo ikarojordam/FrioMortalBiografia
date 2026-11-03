@@ -1,0 +1,18 @@
+COLOQUE AQUI ESTES ARQUIVOS COM OS NOMES EXATOS:
+
+perfil.png             -> Sua foto de perfil
+fundo.gif              -> GIF de fundo (pode ser grande, mas otimize)
+icone-spotify.png      -> Ícone Spotify
+icone-discord.png      -> Ícone Discord
+icone-frio-painel.png  -> Ícone Frio Painel
+300-no-7.mp3           -> Áudio de fundo (arquivo seu, com permissão de uso)
+
+PARA EDITAR OS LINKS:
+Abra ESTE diretório e edite o arquivo "links.js".
+Preencha os cinco valores entre aspas, usando https://
+
+REGRAS IMPORTANTES:
+- O som fica em loop, sem controles de pausa/pular.
+- Navegadores podem exigir uma primeira interação (um toque ou clique) para liberar áudio.
+- Sites estáticos não conseguem contornar a política de autoplay de Chrome, Safari, etc.
+- O áudio não acompanha este pacote; adicione seu próprio arquivo no nome indicado.
