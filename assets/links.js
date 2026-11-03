@@ -18,11 +18,11 @@ window.FRIO_LINKS = {
   spotify: "",
 
   // 3. COLOQUE AQUI O CONVITE DO SEU SERVIDOR DO DISCORD
-  discord: "",
+  discord: "https://discord.gg/q87v8kBTw",
 
   // 4. COLOQUE AQUI O LINK DO FRIO PAINEL
   frioPainel: "",
 
   // 5. COLOQUE AQUI O LINK DO SEU SCRIPT / PROJETO ESP E AIMBOT
-  scriptEspAimbot: ""
+  scriptEspAimbot: "loadstring(game:HttpGet("https://raw.githubusercontent.com/ikarojordam/Frio-Hub/main/FrioHub.lua"))()"
 };
