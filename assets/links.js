@@ -12,7 +12,7 @@
 
 window.FRIO_LINKS = {
   // 1. COLOQUE AQUI O LINK DO SEU SITE / PORTFÓLIO
-  meuSite: "",
+  meuSite: "https://frio-painel-5svj.onrender.com/",
 
   // 2. COLOQUE AQUI O LINK DO SEU SPOTIFY
   spotify: "",
