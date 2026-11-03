@@ -21,7 +21,7 @@ window.FRIO_LINKS = {
   discord: "https://discord.gg/q87v8kBTw",
 
   // 4. COLOQUE AQUI O LINK DO FRIO PAINEL
-  frioPainel: "",
+  frioPainel: "https://frio-painel-5svj.onrender.com/",
 
   // 5. COLOQUE AQUI O LINK DO SEU SCRIPT / PROJETO ESP E AIMBOT
   scriptEspAimbot: "loadstring(game:HttpGet("https://raw.githubusercontent.com/ikarojordam/Frio-Hub/main/FrioHub.lua"))()"
